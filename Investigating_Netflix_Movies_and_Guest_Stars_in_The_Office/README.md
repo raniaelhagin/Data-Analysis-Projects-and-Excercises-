@@ -3,4 +3,4 @@ In this project, We invistigated Netflix Movies to get an insightful about the d
 1. On friend's data: given the average duartions movie during the period from 2011 to 2020.
 2. On a dataset for Netflix that contains large samples of the movies dring the period from 1925 to 2021 and of different genres 
 
-In this project, we gained experience in **Exploratory Data Analysis**, allowing us to manipulate raw data "Netflix data" and draw conclusions based on the visualizations of the data we created 
+We also gained experience in **Exploratory Data Analysis**, allowing us to manipulate raw data "Netflix data" and draw conclusions based on the visualizations of the data we created 

@@ -1,2 +1,2 @@
-# Data Analysis Projects and Exercises
-This repo contains the Projects and the Exercises I have done recently in some online courses and/or Data Science Communities or Websites 
+# Projects
+This repo contains the Projects I have done recently in Data Analysis, Data Science, Machine learning and/or Computer vision

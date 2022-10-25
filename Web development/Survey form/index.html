@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Employee Interests Survey Form</title>
+    </head>
+    <body align="center">
+        <h1>Employee Interests Survey Form</h1>
+
+        <form>
+            <div>
+                <label for="name">Enter your name:</label>
+                <input type="text" id="name" name="name" value="" size="40"/>
+            </div>
+            <br/><br/>
+
+            <div>
+                <label for="department">Enter your department:</label>
+                <input type="text" id="department" name="department" value="" size="40" />
+            </div>
+            <br/><br/>
+
+            <div>
+                <label for="info">Tell us a little about yourself:</label>
+                <textarea name="info" id="info" cols="40" rows="5"></textarea>
+            </div>
+            <br/><br/>
+
+            <div>
+                <label for="radio">Do you exercise at home?</label>
+                <input type="radio" id="yes" name="exercise" value="yes"/>
+                <label for="yes">Yes</label>
+                <input type="radio" id="no" name="exercise" value="no"/>
+                <label for="no">No</label>
+            </div>
+            <br/><br/>
+
+            <div>
+                <label>How do you like to read about your favourite topics ?</label>
+                <br/>
+                <input type="checkbox" id="Books" name="reading" value="Books"/>
+                <label for="Books">Books</label>
+                <input type="checkbox" id="Online" name="reading" value="Online"/>
+                <label for="Online">Online resources</label>
+                <input type="checkbox" id="Phone" name="reading" value="Phone"/>
+                <label for="Phone">Phone apps</label>
+                <input type="checkbox" id="Magazines" name="reading" value="Magazines"/>
+                <label for="Magazines">Magazines</label>
+            </div>
+            <br/><br/>
+            
+            <div>
+                <label for="genre">What genre of movies do you like?</label>
+                <select name="genre" id="genre">
+                    <option value="Comedy">Comedy</option>
+                    <option value="Horror">Horror</option>
+                    <option value="Action">Action</option>
+                    <option value="Drama">Drama</option>
+                    <option value="Fantasy">Fantasy</option>
+                    <option value="Mystery">Mystery</option>
+                    <option value="Romance">Romance</option>
+                    <option value="Thriller">Thriller</option>
+                </select>
+            </div>
+            <br/><br/>
+
+            <div>
+                <input type="submit" value="Submit form"/> 
+            </div>
+
+        </form>
+    </body>
+</html>

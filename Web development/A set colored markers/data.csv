@@ -1,0 +1,4 @@
+weight, height, arterial pressure
+25, 34, 12
+12, NaN, 34
+23, 3, NaN

@@ -1,9 +1,14 @@
 Hi,
 
-Thank you for your application. Artenal was built by interns and we believe we have a duty to give back our interns the best experience. We are a progressive company and do not believe in in interviewing or Resumes, instead we would like to see your efforts and your willingness to learn.
+Thank you for your application. Artenal was built by interns and we believe we have a duty to give back our interns the best experience.
+We are a progressive company and do not believe in in interviewing or Resumes, instead we would like to see your efforts and your 
+willingness to learn.
 
 In order to proceed to the next steps, please submit a small assignment which is as follows:
-1) Build a small algorithm to detect oranges/apples in a video and count them as they appear in the frame for a total count. Any innovations will be highly regarded and going above and beyond is motivated. You can use open datasets and videos online, we will not be providing datasets at this stage. (Please use Deepsort for calculating total count).  Please also attach your other projects in your email that you are really proud of in the past for further evaluation.
+1) Build a small algorithm to detect oranges/apples in a video and count them as they appear in the frame for a total count. 
+Any innovations will be highly regarded and going above and beyond is motivated. You can use open datasets and videos online, 
+we will not be providing datasets at this stage. (Please use Deepsort for calculating total count).  Please also attach your other 
+projects in your email that you are really proud of in the past for further evaluation.
 
 Please submit your assignments to us at hr@techtailored.com by November 5
 

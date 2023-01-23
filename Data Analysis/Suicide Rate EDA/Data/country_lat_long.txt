@@ -1,0 +1,5 @@
+Context
+This is latitude and longitude data for centroids of countries.
+
+Content
+Simple data set of country name, latitude, and longitude.

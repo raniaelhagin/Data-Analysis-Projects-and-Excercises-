@@ -9,7 +9,7 @@ This is a web application to teach kids about animals with an interacitve enviro
     - **Backend**: C++
     - **Frontend**: QML, JS
     - ***Library***: felgo (HotReloading, extra components)
-    - **IDE**: Qt creative 
+    - **IDE**: Qt creator
 
 ### UI/UX 
 - Adobe Xd
